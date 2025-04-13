@@ -1,0 +1,44 @@
+*{
+    font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    border: 3px solid black;
+    padding-left: 50px;
+    margin-right: 50px;
+    width: calc(100% - 40%); /* Adjust width to account for the margin */
+    box-sizing: border-box; /* Ensures padding and border are included in the width */
+    margin-left: 10px;
+}
+
+hr {
+    width: 60%;
+    height: 3px;
+    background-color: #000000;
+    border: none;
+    margin: 0;
+    margin-left: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3{
+    color: #369e4a;
+    font-size: 22px;
+}
+
+p{
+    font-size: 18px;
+}
+
+ul{
+    display: block;
+    left: 50px;
+}
