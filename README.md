@@ -1,3 +1,3 @@
+To run click 
 
-
-https://yashking88.github.io/Single-Page-CV/
+https://github.com/Yashking88/Single-Page-CV/tree/main
